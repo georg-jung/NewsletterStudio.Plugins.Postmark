@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\NewsletterStudio.Plugins.Postmark", "NewsletterStudio.Plugins.Postmark\NewsletterStudio.Plugins.Postmark.csproj", "{F39AFB09-C776-4886-9AEA-66A86F8CFADF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletterStudio.Plugins.Postmark", "src\NewsletterStudio.Plugins.Postmark\NewsletterStudio.Plugins.Postmark.csproj", "{F39AFB09-C776-4886-9AEA-66A86F8CFADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
